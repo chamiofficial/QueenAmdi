@@ -1,1 +1,1 @@
-web: node ./assets/amdiModule.js
+woker: node ./assets/amdiModule.js
